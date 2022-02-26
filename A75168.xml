@@ -1,0 +1,563 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The woman's almanack, for the year 1694 calculated for the meridian of city and country. Containing many choice, useful, pleasant, and most necessary, observations, adapted to the capacity of the female sex, and not to be found in other almanacks: as, the good house-wife's calendar. A table of expences. The critical days of the year. ... By Dorothy Partridge, midwife, student in astrology.</title>
+            <author>Partridge, Dorothy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75168</idno>
+            <idno type="STC">Wing A2016A</idno>
+            <idno type="STC">ESTC R232379</idno>
+            <idno type="EEBO-CITATION">99900201</idno>
+            <idno type="PROQUEST">99900201</idno>
+            <idno type="VID">137621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137621)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2541:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The woman's almanack, for the year 1694 calculated for the meridian of city and country. Containing many choice, useful, pleasant, and most necessary, observations, adapted to the capacity of the female sex, and not to be found in other almanacks: as, the good house-wife's calendar. A table of expences. The critical days of the year. ... By Dorothy Partridge, midwife, student in astrology.</title>
+                  <author>Partridge, Dorothy.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.S. in the Great Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+               <term>Ephemerides --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137621:1"/>
+            <p>
+               <hi>The Woman's Almanack, For the YEAR 1694: Calculated for the Meridian of City and Country.</hi>
+            </p>
+            <p>
+               <hi>Containing many choice, uſeful, pleaſant, and moſt neceſſary Obſervations, adapted to the Capacity of the</hi> Female Sex, <hi>and not to be found in other Almanacks: As,</hi>
+            </p>
+            <figure>
+               <figDesc>portrait</figDesc>
+            </figure>
+            <p>The Good Houſe-wife's Calendar. A Table of Ex<g ref="char:EOLhyphen"/>pence<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The Critical Days of the Year. Obſervations on New-Year's Day. Of Dog-Days, and <g ref="char:V">Ʋ</g>nfortu<g ref="char:EOLhyphen"/>nate to the Female Sex. How to know the Hour by the Moon. Obſervations on Moles. From to know whe<g ref="char:EOLhyphen"/>ther a young Woman be a Maid or not, by a new Way of Aſtrology. To know tell which ſhall die first a Man or his Wife. How to make Love powder. Choice <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, diſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng to both Wives, and young <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uckſom Widows, their Fortune by the Stars, to, whether Rich or Poor, long life, Marry or no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Husbands, whether Marry the Perſon they deſire, and whe<g ref="char:EOLhyphen"/>ther rich or poor in their married State: What <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, are Fortunate. Alſo excellent Coſmeticks to beautifie the Comple<g ref="char:EOLhyphen"/>xion of old Ladies, making one of ſixty ſix ſerve as well as a young Girl of ſixteen. How to procure a new Set of Teeth to grow in an old Woman's Mouth. To Cure a Red-face. Like<g ref="char:EOLhyphen"/>wiſe what time of the Moon 'tis best to get Children.</p>
+            <p>By <hi>Dorothy Patridge,</hi> Midwife, S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Aſtrology.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>J. S.</hi> in the <hi>Great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:137621:2"/>
+            <head>The Woman's Almanack, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>Monthly Obſervations in Goodhouſewifrey, for the Year <hi>1694.</hi>
+               </head>
+               <p>JANUARY.</p>
+               <p>OPen Bee-hives, uncover Roots of Trees, cut Vines in one of the twelve days; take a<g ref="char:EOLhyphen"/>way ſuperfluous Branches from Fruit-trees. Fruits in prime, Winter-musk (bakes well) Winter<g ref="char:EOLhyphen"/>norwich (excellently baked) Kentiſh-pepin, Ruſſet-pepin, Holland-pepin. Set up your Traps for Ver<g ref="char:EOLhyphen"/>min; eſpecially in your Nurſeries and Flower-gar<g ref="char:EOLhyphen"/>dens. A luſty ſquab fat Bedfellow very good Phy<g ref="char:EOLhyphen"/>ſick at this Seaſon.</p>
+               <p>FEBRUARY.</p>
+               <p>KItchen-garden-herbs may be planted. Half o<g ref="char:EOLhyphen"/>pen your paſſges for the Bees. Now alſo plant out your Colly-flowers to have early; and begin to make your Hot-bed for the firſt Melons and Cu<g ref="char:EOLhyphen"/>cumbers. Continue Vemine-traps, <hi>&amp;c.</hi> A good Sea<g ref="char:EOLhyphen"/>ſon to get Children in.</p>
+               <p>MARCH.</p>
+               <p>SLip and ſet Sage, Roſemary, Lavender, Thyme, <hi>&amp;c.</hi> By this time your Bees ſit; keep them cloſe Night and Morning. If Weather prove ill, plant and graft Fruit-trees, carry out Mannure; ſow all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeds, whoſe roots are round, as Onyons, <hi>&amp;c.</hi>
+               </p>
+               <pb facs="tcp:137621:2"/>
+               <p>APRIL.</p>
+               <p>PRune Fruit-trees; plant and ſow ſtrange Flowers; plant Artichock-ſlips, ſet French-beans. This Month <hi>Venus</hi> is very rampant; get a luſty Husband, leaſt worſe befal ye.</p>
+               <p>MAY.</p>
+               <p>SEt Gilly-flowers cloſe in Bed, repair Hedges. Now ſet your Bees at full liberty, look out of<g ref="char:EOLhyphen"/>ten, and expect Swarms, <hi>&amp;c.</hi> Ply the Laboratory, and diſtil Plants for Waters, Spirits, <hi>&amp;c.</hi>
+               </p>
+               <p>JUNE.</p>
+               <p>PLant, graft, or ſet tender Herbs or Flowers. Alſo fold in Sheep, and make them bear off the Dew with their feet in the morning before they feed. Sow Parſneps, Pumbions, Cucumbers, Melons, and Gourds, in a hot fair Day.</p>
+               <p>JULY.</p>
+               <p>GAther Flowers and Preſerve. Replant ſuch Herbs as you would not have Seed off. Sow Cabbage or Lettice in the old Moon.</p>
+               <p>AUGUST.</p>
+               <p>ABſtane from the Feats of <hi>Venus,</hi> the Learned hold it very bad to uſe it this Month. Now cut down Wood for Winter-fire. Geld Lambs, <hi>&amp;c.</hi>
+               </p>
+               <p>SEPTEMBER.</p>
+               <p>SLip Garden-flowers, and re-plant them; and caſt up Drains to keep the Land dry in Winter.</p>
+               <pb facs="tcp:137621:3"/>
+               <p>OCTOBER.</p>
+               <p>SEt Pears, Plums, and Apples, remove Trees that bear Kernels.</p>
+               <p>NOVEMBER.</p>
+               <p>ROugh, hew, and faſhion Plough-timber, and lay it up to Seaſon; the Aſh is good, the Elm better.</p>
+               <p>DECEMBER.</p>
+               <p>KIll-Swine; open Dreins to prevent Inundations; now uſe <hi>Venus.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Critical Obſervations on <hi>New-year's Day.</hi>
+               </head>
+               <p>SOme obſerve that <hi>New-year's Day</hi> being red, por<g ref="char:EOLhyphen"/>tends great Tempeſt, and War: If it falls up<g ref="char:EOLhyphen"/>on Sunday, then a pleaſant Winter followeth; and a tempeſtious Spring, a dry Summer, a plen<g ref="char:EOLhyphen"/>tiful Vintage, Cattle grow, Honey aboundeth, and Women dye, Plenty and Peace. If upon Monday, a various Winter, a good Spring, Sum<g ref="char:EOLhyphen"/>mer dry, hard Vintage, and Mens Health change<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Bees dye, and Wonders ſhall be ſeen. If up<g ref="char:EOLhyphen"/>on Tueſday, a Winter cloudy, a wet and tem<g ref="char:EOLhyphen"/>peſtuous Spring, a dry Summer, a ſmall Vintage, though at firſt hopeful, Women ſhall dye. If upon Wedneſday, the Winter will be ſharp and cold, the Spring hard and boyſterous. If upon Thurſday, a pleaſant quiet Winter, a troubleſome Spring. If upon Friday, a changeable Winter, a good Spring. Summer dry, a great Plenty of Corn, Sheep ſhall dye. If upon Saturday, a fearful Winter, for vio<g ref="char:EOLhyphen"/>lent Guſts of Wind, a turbulent Spring, and Corn nought, with a rot of Sheep, old Women ſhall dye, and much burning abound.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:137621:3"/>
+               <head>Of <g ref="char:V">Ʋ</g>nfortunate Days, and Dog-days.</head>
+               <p>THe Dog-days are ſo called, becauſe of the influ<g ref="char:EOLhyphen"/>ance of thoſe Stars called the Dog, and they continue in force ſo long as the Sun by his nearneſs co-operateth with them, beginning about the 20th day of <hi>July,</hi> and ending the 17th of <hi>August. Diophantes</hi> would have us obſerve the riſing of the Dog-Star, in what Sign the Moon is in that time: for if ſhe be found in <hi>Aris,</hi> there uſeth to be ſmall ſtore of Grain, but in <hi>Gemini</hi> great abundance, and ſo likewiſe in <hi>Taurus;</hi> in <hi>Virgo,</hi> corruption of Grain; in <hi>Sagitary</hi> abundance, and ſo in <hi>Capricorn;</hi> in <hi>Aquarius,</hi> ſcarcity; in <hi>Piſcibus,</hi> Plenty; in <hi>Libra</hi> abundance of Fruits, with ſhells of Nuts, <hi>&amp;c.</hi> Moreover, ſome do reckon 33 Unfortunate Days (as they call them) in a Year, In <hi>January,</hi> the 1, 2, 4, 5, 10, 15, 17, and 19. In <hi>February,</hi> the 8, 10, and 17. In <hi>March,</hi> the 15, 16, 19, and 28. In <hi>April,</hi> the 16, and 21. In <hi>May,</hi> the 7, 17, and 20. In <hi>June,</hi> the 4, and 7. In <hi>July,</hi> the 15, and 20. In <hi>September,</hi> the 6, and 7. In <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> the 6. In <hi>November,</hi> the 15, and 25. In <hi>De<g ref="char:EOLhyphen"/>cember,</hi> the 6, 7, and 9. Others alſo ſay that there are in the Year ſix moſt Unfortunate Days to be let Blood or to be Born: <hi>January</hi> the 3. <hi>July</hi> the 1. <hi>October</hi> the 2. <hi>April</hi> the 3. <hi>August</hi> the 1, and 31. And amongſt many the 28 Day of <hi>Decmber,</hi> called <hi>Childer<g ref="char:EOLhyphen"/>maſs-day, Croſs-day,</hi> and <hi>Innocents-day,</hi> is taken for a very evil Day. But it becometh Chriſtian People not to ſubject themſelves unto Hours and Days, as did Pa<g ref="char:EOLhyphen"/>gans of old.</p>
+            </div>
+            <div type="part">
+               <head>Obſervations on the Weather.</head>
+               <p>THe Judgment of the Weather is very various and uncertain, eſpecially in an Iſland, ſuch as is <hi>Eng<g ref="char:EOLhyphen"/>land,
+<pb facs="tcp:137621:4"/> Scotland,</hi> and <hi>Ireland,</hi> wherein one day the Seaſon changes ſo often, as that the Morning may be cold like Winter, and the middle of the Day hot like Summer, and again the Night cold as Winter; and ſometimes contrari<g ref="char:EOLhyphen"/>wiſe it is hot in Winter, <hi>&amp;c.</hi> But the mixture or confuſi<g ref="char:EOLhyphen"/>on as it were of Sea and Land, with the often and ſudden change of the Wind, are no little cauſes hereof. Where<g ref="char:EOLhyphen"/>fore frequent Obſervations and Experience in each parti<g ref="char:EOLhyphen"/>cular Place, is very Neceſſary: Without which a learned Perſon may Err more groſſely than he that hath no more Knowledge then Obſervation alone, as we ſee ordinarily in Shepherds and plain Huſband-men that are much abroad by Day, and by Night. Whereas an Artiſt muſt obſerve the riſing, culminating, and ſetting of the greateſt Stars, the Ingreſs of the Sun into the four Cardinal Points, E<g ref="char:EOLhyphen"/>clipſes, the Aſpect of the Planets, but eſpecially the Moon, and her Manſions and Lunations, <hi>&amp;c.</hi> Which are here too Obſcure, and too Tedious to Treat of, as they ought. Wherefore we will ſpeak moſt of ſuch ordinary Signs as Huſband-men and Good Houſewifes do obſerve.</p>
+            </div>
+            <div type="part">
+               <head>Signs of fair Weather.</head>
+               <p>IF it doth Lighten the day being clear, or if it Rain pre<g ref="char:EOLhyphen"/>ſently after a great Wind; when the Crow or Raven gapeth againſt the Sun in Summer; alſo the gaping of Dawes in the Morning, the ſwarming of Bees, the flying of Humble-Bees, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roanes, or Bettles about the Doors in the Evening, the howling of the Owl in rainy Weather, and Ants removing of their Eggs; all theſe are ſigns of fair Weather.</p>
+            </div>
+            <div type="part">
+               <head>Signs of foul Weather.</head>
+               <p>
+                  <hi>RObin Red-breaſt</hi> ſingeth under Hedges before Rain, but upon the tops of Trees before fair Weather. Hens lay abroad if it rain long, but under a Roof if it rain not long. The Herb <hi>Tidfolly</hi> looketh rough againſt a Tempeſt, and the Leaves ſtand ſtaring; Hens reſort to, the Pearch or Roof covered with duſt: Alſo the alteration of the Cock's crowing, the pruning and waſhing of Birds in Win<g ref="char:EOLhyphen"/>ter, the wallowing of Dogs, the ample working of the Spin<g ref="char:EOLhyphen"/>ner
+<pb facs="tcp:137621:4"/> in the Air, the Ant buſied with her Eggs, the Bees in fair Weather not going far, Rain ſuddenly dried up, the heavineſs of Head and Eyes, the falling of Scot from Chim<g ref="char:EOLhyphen"/>neys, the biting of Fleas, Flies and Gnats, the piſſing often of Dogs, when Cattel eat greedily, and lick their Hoofs, if they ſuddenly run here and there, making a noiſe, and breathing into the Air with open Noſtrils, alſo the croking of Frogs, Moles tairs up the Ground, the unaccuſtomed noiſe of Poultry or Swine, the caying of Crows twice or thrice quick calling, are ſigns of tempeſtuous Weather to follow. Little Rain in Winter, is ſign of a wet Spring to follow; and a hot dry Summer, is ſign of a wet Winter: When it beginneth to freeze with an Eaſt-wind, cold Wea-Weather is like to continue.</p>
+            </div>
+            <div type="part">
+               <head>How to judge of Weather by the Clouds.</head>
+               <p>BLack Clouds flying from the Eaſt, is Rain at Night, from the Weſt, is Rain the next Day; if they fly low and appear to ſettle on the tops of Hills, it is cold Weather; if they be full charged, and appear whole like Towers, it Hails at hand: If white Clouds appear in Winter two or three days together at Sun-riſing, it is Cold and Snow, but black Clouds are Rain. A red Sky in the Evening and a gray Morning, is a fair Day. Miſts falling in the Morning in Spring or Harveſt, alſo Miſts over Ponds or Waters in the Morning, ſhew Rain. If Smoke ride ſwiftly in the Air, it is Wind from thence, eſpecially from North to South. If Miſts deſcend from Hills, and ſettle in the Valleys, it is fair hot Weather next day. If the Summer be moiſt, wet and cloudy, it is bad for Corn and Fruit, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Critical Days in the Year.</head>
+               <p>IN feaveriſh Diſeaſes, and ſuch like, the Phyſicians do ob<g ref="char:EOLhyphen"/>ſerve Critical Days, that is to ſay, Days upon which there is a great alteration of Sickneſs, either towards Health or Death in the Patient: Such are reckoned to be the firſt day of the Sickneſs, the 14 day, the 20, and the 27. Indeed the Moon altereth thoſe times ſomewhat by the ſwiftneſs or ſlowneſs of her motion. They have alſo days whereupon they do paſs judgment of the Critical Time that cometh after, ſuch are the 4 day of the Sickneſs, the 11, the 17,
+<pb facs="tcp:137621:5"/> and the 2. So likewiſe in Aſtrology, according to the Weather, (for the other is according to the temperament of the Body) there are ſome days, or rather ſeaſons, ſee<g ref="char:EOLhyphen"/>ing we look not altogether upon only one day, which are critical in regard of the Weather, and ſo conſequently of Dearth, and Epidemical or Raging Diſeaſes, all which are to be underſtood to fall out ſo often, or for the moſt part, but not always. Nay, ſome are of opinion, that it is c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed many days back in our times, but Experience and Obſer<g ref="char:EOLhyphen"/>vation can beſt ſatisfie in all theſe: Thus if the 22d day of <hi>January</hi> be clear without Clouds, it is a ſign of a good Year for Wines</p>
+               <p>If on <hi>Candlemas-day</hi> the Sun ſhine, it is a ſign of more Winter to be remaining than is already paſt. So if upon the 22d of <hi>February,</hi> it freeze or be cold, it will continue a Fortnight.</p>
+               <p>Alſo the 24th day of <hi>February,</hi> altereth the Weather from Froſt to Thaw, or from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haw to Froſt.</p>
+               <p>So many Miſts in <hi>March,</hi> ſo many hoary Froſts after <hi>Eaſter.</hi>
+               </p>
+               <p>If the Frogs be heard before the 24th day of <hi>April,</hi> ſo many days after are they ſilent.</p>
+               <p>A dry <hi>March,</hi> a moiſt <hi>April,</hi> and a cold <hi>May</hi> is thought to be a good Spring.</p>
+               <p>If the Sun ſhine the 25th day of <hi>May,</hi> Wines proſper. And if it rain the 24th of <hi>June<g ref="char:punc">▪</g>
+                  </hi> Nuts do not proſper. If the 24th if <hi>June</hi> be wet, it is a ſign of a bad Harveſt.</p>
+               <p>If it rain the 2d of <hi>July,</hi> there will much Rain follow.</p>
+               <p>If the Wind do not change the 24th day of <hi>June,</hi> the Night following it is held good.</p>
+               <p>If it rain the 5th day of <hi>July,</hi> it laſteth ſo four Weeks.</p>
+               <p>The 8th day of <hi>July,</hi> if fair, the Vintage ſhall be good, but if dark, bad.</p>
+               <p>If the 25th day of <hi>July</hi> be fair, it is a ſign of a good Harveſt.</p>
+               <p>So if the Leaves do not fall betimes in Harveſt, it is a ſign of a ſharp Winter.</p>
+               <p>If the 24th day of <hi>Auguſt</hi> be fair, it is a ſign of a good Harveſt.</p>
+               <p>If it rain on the 1ſt day of <hi>September,</hi> it is a ſign of a dry Harveſt to come.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:137621:5"/>
+               <head>The 14th day of <hi>September.</hi>
+               </head>
+               <q>
+                  <l>If the Deer on <hi>Rood-day</hi> lye down, and riſe up dry,</l>
+                  <l>Then forty days fair follow uſually.</l>
+               </q>
+               <p>So many days old the Moon is the 29th day, ſo many Floods that Winter. If the 17th day of <hi>November</hi> be clou<g ref="char:EOLhyphen"/>dy, it ſheweth a wet Winter; if dry, a ſharp Winter. And as is the 11th ſo is the Winter.</p>
+               <p>From the 6th day of <hi>September,</hi> to the 21ſt, are called <hi>Halcien-days,</hi> becauſe no Winds uſe to blow near to the ſhorteſt day of the Year. If the 25th day of <hi>December</hi> come is the new Moon, it is a token of a good Year: And the nea<g ref="char:EOLhyphen"/>rer to the new Moon the better: The contrary in the de<g ref="char:EOLhyphen"/>creaſe. If the Sun ſhine the 12th day, or 6th of <hi>January,</hi> ſhall be much Wind: Such is Solſtice or 11th day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> ſuch is the Winter. How many days the firſt Snow is, before new Moon, ſo many Snows are to come. Thunder on <hi>Shrove-Tueſday,</hi> foretelleth Wind, ſtore of Fruit, and Plen<g ref="char:EOLhyphen"/>ty, the Sun-beams being early abroad: Others affirm, So much it ſhineth that day, the like it ſhineth every day of <hi>Lent.</hi> If it rain on <hi>Aſcenſion-day,</hi> it be tokeneth ſcarcity of Food for Cattel; but if it be fair; plenty.</p>
+            </div>
+            <div type="part">
+               <head>How to know what of the Clock by the Moon.</head>
+               <p>LOok upon any Sun-dial, and ſee what of the Clock it is by the ſhadow of the Moon, as you do by the Sun, obſerving how much it wanteth, or is paſt 12, for ſo much it wanteth, or is paſt the hour of her coming to the South; and knowing the Age of the Moon at that time, you ſhall find the time of her coming to the South, by the Table of the length of Moon ſhining, which is aforeſaid. As for ex<g ref="char:EOLhyphen"/>ample, Let the ſhadow of the Moon point at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Dial, and if it be the 10th day of the Moon, ſhe cometh to the South, or ſhineth by the Table 8 hours; then ſubſtract 1 from 8, and there remaineth 7 of the Clock, for the Hour of the ſaid time.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:137621:6"/>
+               <head>The good Houſe-wife's Table of Expence<g ref="char:cmbAbbrStroke">̄</g>s.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" rows="5">
+                           <hi>One Week.</hi>
+                        </cell>
+                        <cell role="label" rows="5">
+                           <hi>One Month.</hi>
+                        </cell>
+                        <cell role="label" rows="4">
+                           <hi>One Year.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Expences for one Day.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>Shillings</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Pence</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Farthings</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>Shillings</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Pence</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Farthings</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>Pounds</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Shillings</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Pence</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Farthings</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A Farthing</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>3</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>7</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A half-peny</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A Penny</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>0</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Two pence</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>00</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Three pence</hi>
+                        </cell>
+                        <cell>
+                           <hi>is for</hi>
+                        </cell>
+                        <cell>1</cell>
+                        <cell>9</cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>is for</hi>
+                        </cell>
+                        <cell>4</cell>
+                        <cell>8</cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>is for</hi>
+                        </cell>
+                        <cell>4</cell>
+                        <cell>11</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A Groat</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>4</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>5</cell>
+                        <cell>14</cell>
+                        <cell> </cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Five pence</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>11</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>12</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Six pence</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                        <cell>0</cell>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A Shillings</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1 <hi>l.</hi>
+                        </cell>
+                        <cell>8</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>5</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Here are four ſeveral Tables, one for a Day, the ſecond for a Week, the third for a Month, the fourth for a Year. As to know what the expence of one Farthing a Day is for one Week together, to wit, one Penny three Farthings a Day is for one Week together, to wit, one Penny three Farthings; for a Month, ſeven Pence; and for a Year, ſeven Shillings, ſeven Pence, and one Farthing. And this is to be obſerved That ſo many Pence by the Day, make by the Year juſt ſo many Pounds, half Pounds and Groats, as ſeven Pence a day is by the Year, ſeven Pounds, ſeven-half Pounds, and ſeven Groats.</p>
+            </div>
+            <div type="part">
+               <head>Of Riches and Poverty.</head>
+               <p>The Letter <hi>A</hi> in the Root of the Fore-finger, promiſes much Riches and Gain; likewiſe many Lines from the Root of the Thumb, between the Thumb and Line of Life, pointing toward the Ring-finger, promiſes great Riches. A Mark like a Ladder on the Mount of the Fore-finger, ſig<g ref="char:EOLhyphen"/>nifies a poor Woman, ſubject to great loſſes.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:137621:6"/>
+               <head>Of Husbands.</head>
+               <p>Lines reaching from the Mount of the Thumb, over the Mount, (towards the Line of Life) ſhew the Number of Husbands; therefore obſerve how many there be; and ſhe ſhall have ſo many Husbands, or at leaſt a <hi>Bolus</hi> to keep her from the <hi>Green-Sickneſs;</hi> I mean, a Friend in the corner.</p>
+            </div>
+            <div type="part">
+               <head>Of ſhort Life.</head>
+               <p>The Line of Life, if it be ſhort, it ſhews a ſhort Life, and by how much the more it inclines to brevity, ſo much the more it is feared</p>
+            </div>
+            <div type="part">
+               <head>Of Buck-ſomneſs and Luſt.</head>
+               <p>The Siſter of the Line of Life, on the Mount of the Thumb, long and rediſh in the Hand of a Woman; alſo the Mount or ring of the Thumb big, and elevated with many croſs diſor<g ref="char:EOLhyphen"/>dered Lines, with Lines chequerwiſe near the Wriſt of the Hand; all theſe denotes and intimates the Woman will kiſs in a Corner, or beat her Puff-paſt with her Neighbour's Rowling-pin; one that cannot fix her Humours to a con<g ref="char:EOLhyphen"/>ſtant Diet.</p>
+            </div>
+            <div type="part">
+               <head>How to make Hair as red as a Foot, a lovely Brown.</head>
+               <p>Take of Lead calcined with Sulphur one part and another part of quick Lime, mix them with Water, then let it dry, then waſh it very clean with Soap and Water, and it will be a very natural Brown: the longer it lieth the better it groweth.</p>
+            </div>
+            <div type="part">
+               <head>To Cure a Lady's Red Face.</head>
+               <p>Take Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly-roots four Ounces, boil them in two Pints of Water until half be conſumed; then take it off, ſtrain it out, and keep it for your uſe.</p>
+            </div>
+            <div type="part">
+               <head>To make an old Woman's Teeth white, recover a new Set, beau<g ref="char:EOLhyphen"/>tifie the Face, and take out the furrow'd Rinkles as ſmooth as a Girl of Sixteen.</head>
+               <p>Take Loaf-ſugar 1 Pound, Allom 3 Ounces, the flower of Beans, Fumitory, and Water-lillies, a handful of each, 4. Limons ſliced, the Crumb of 2 white Loaves, Goats-milk and White-wine, of each 2 Pints; bruiſe what is to be bruiſed; then mix them together in a Glaſs Alembick, di<g ref="char:EOLhyphen"/>ſtil them in <hi>Balne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mariae:</hi> Keep the Water as moſt excel<g ref="char:EOLhyphen"/>lent for the abovementioned uſes.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:137621:7"/>
+               <head>Of Moles, how to know whether any Perſon hath them.</head>
+               <p>A Mole on the Noſe of a Man, or Lip of a Woman, de<g ref="char:EOLhyphen"/>notes another on the Privy Parts: A Mole on the Nape of the Neck, another on the Buttocks; and if it be on the Check, another on the Belly; a Mole on the Forehead, ano<g ref="char:EOLhyphen"/>ther on the Breaſt; a Mole under the Eye-brow, another on the Navel: And this very ſeldom fails.</p>
+            </div>
+            <div type="part">
+               <head>How to know whether a Woman be a Maid or no.</head>
+               <p>Take a ſpoonful of the Spirit of Seagreen, Houſe-leek, the Powder of Crabs-teeth, one dram; half an Ounce of <hi>Jamaica</hi> Pepper beaten very ſmall, and mixt together, and preſented in a Glaſs of Wine, Beer, or roaſted Apple; if the party do not ſneeze in half an Hour after, you may ſuſpect her Virginity; if ſhe do, be confident ſhe is virtuous.</p>
+            </div>
+            <div type="part">
+               <head>How to know which ſhall die first, the Husband or Wife</head>
+               <p>
+                  <hi>Note,</hi> That there are ſeven Letters in the Croſs-now that ſtand for Numbers, as C for 100, D for 500, L for 50. M for 1000, V for 5, X for 10. Therefore to know which Party ſhall die firſt, write down the Man's Chriſtian and Sirname, and then the Woman's Maiden-name alſo, and count which of their Names by thoſe Letters can make the greateſt Number, and that Party ſhall over live the other.</p>
+            </div>
+            <div type="part">
+               <head>How to make a Philtre, or Love-powder.</head>
+               <p>Take a Swallow's Neſt, young ones and all, and digging a hole in the Earth, put them in, and cover it up; let them <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e there 48 hours, then, opening the place, take the young ſwallows out, and dry them to Powder very ſmall; and this, ſome ſay, hath ſtrange effects: O hers, the breath<g ref="char:EOLhyphen"/>ing, the Baſilick Veins, and diſtilling it after, is the beſt Love-powder.</p>
+               <p>
+                  <hi>Licenſed according to Order.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
